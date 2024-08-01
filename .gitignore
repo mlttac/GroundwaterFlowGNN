@@ -1,0 +1,13 @@
+# Files and folders
+data/
+
+*.png
+*.html
+*.parquet
+*.pt
+*.pyc
+*.npz
+*.csv
+*.params
+*.json
+
