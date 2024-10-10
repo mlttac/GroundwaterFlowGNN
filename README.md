@@ -3,7 +3,7 @@
 ## Authors
 ML Taccari, H Wang, J Nuttall, X Chen, PK Jimack
 
-This repository contains the code and resources for the research paper "Spatial-Temporal Graph Neural Networks for Groundwater Data," currently under review.
+This repository contains the code and resources for the research paper "Spatial-Temporal Graph Neural Networks for Groundwater Data", published in Scientific Reports - Nature. 
 
 ## Abstract
 This paper introduces a novel application of spatial-temporal graph neural networks (ST-GNNs) to predict groundwater levels. Groundwater level prediction is inherently complex, influenced by various hydrological, meteorological, and anthropogenic factors. Traditional prediction models often struggle with the nonlinearity and non-stationary characteristics of groundwater data. Our study leverages the capabilities of ST-GNNs to address these challenges in the Overbetuwe area, Netherlands.
@@ -16,10 +16,6 @@ We utilize a comprehensive dataset encompassing 395 groundwater level time serie
 - `/data_preprocessing` - Scripts for data preparation.
 - `/models` - Contains the model architecture.
 - `/utils` - Utility functions.
-
-
-## Data
-The dataset used in this study can be downloaded from [Zenodo](https://zenodo.org).
 
 ## Citation
 If this work aids your research, please cite our paper (details will be updated upon publication).
