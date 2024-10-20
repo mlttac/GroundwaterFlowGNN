@@ -16,7 +16,6 @@ We utilize a comprehensive dataset encompassing 395 groundwater level time serie
 - `/utils` - Utility functions.
 
 ## Citation
-## Citation
 If this work aids your research, please cite our paper:
 
 ```bibtex
